@@ -1,5 +1,17 @@
 # InventarisMuseum
-Create using laravel 8, bootstrap 5, with php programming language and with many packages
+Create using laravel 8, bootstrap 5, with php 7.14.9 programming language and with many packages
+
+# How To Install
+
+1. Download Code
+2. Update Composer 
+    - composer update 
+3. Autoload
+    - php dump-autoload
+4. Run source code
+    - open terminal
+    - php artisan serve
+5. Done 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
